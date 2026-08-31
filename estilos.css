@@ -1,7 +1,16 @@
 .body{
     background: linear-gradient(to right, #9ceaef, #68d8d6);
-  
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-
+.inicio{
+    background-color: #68d8d6;
+    padding: 30px;
+     border-radius: 8px;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+     width: 100%;
+     max-width: 350px;
+}
 
